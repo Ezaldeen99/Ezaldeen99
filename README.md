@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/dart/dart-original.svg" width="25px" height="25px"/>
+ <img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" width="25px" height="25px"/>
 </p>
 
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@azozsahb99" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
-<a href="https://linkedin.com/in/arash-aghajani" target="blank">
+<a href="https://www.linkedin.com/in/ezaldeen-sahb-17918b137/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 <a href="https://github.com/Ezaldeen99" target="blank">
