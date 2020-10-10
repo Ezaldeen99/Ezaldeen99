@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="background: green ">
 <!-- top left -->
 <a href="#" click="alert()">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="60" height="60"/> 
 </a>
 
 
