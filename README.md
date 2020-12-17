@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- websites and link -->
 <p align="center">
 
-<a href="https://medium.com/@azozsahb99" target="blank">
+<a href="https://ezaldden99.medium.com/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ezaldeen99" height="20" width="20" />
 </a>
 <a href="https://www.linkedin.com/in/ezaldeen-sahb-17918b137/" target="blank">
