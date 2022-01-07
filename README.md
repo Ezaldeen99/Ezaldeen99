@@ -1,19 +1,33 @@
-### Hi there 
+## Hi there, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
 
-<!--
-**Ezaldeen99/Ezaldeen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- websites and link -->
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://ezaldden99.medium.com/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ezaldeen99" height="20" width="20" />
+</a>
+<a href="https://www.linkedin.com/in/ezaldeen-sahb-17918b137/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezaldeen99" height="20" width="20" />
+</a>
+<a href="https://github.com/Ezaldeen99" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Ezaldeen99" height="20" width="20" />
+</a>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<br />
+
+### 📕 Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+- [Introducing a new Flutter widget animator!](https://levelup.gitconnected.com/introducing-a-new-flutter-widget-animator-b499c1a98ee5)
+- [Create a Flutter IOS build without Mac!](https://ezaldden99.medium.com/create-a-flutter-ios-build-without-mac-911c0e3553c5)
+- [Implement a search and filter in flutter!](https://levelup.gitconnected.com/implement-a-search-and-filter-in-flutter-56d046e12c05)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 <div style="background: green ">
 <!-- top left -->
@@ -47,18 +61,4 @@ Here are some ideas to get you started:
 
 
 
-<!-- websites and link -->
-<p align="center">
-
-<a href="https://ezaldden99.medium.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ezaldeen99" height="20" width="20" />
-</a>
-<a href="https://www.linkedin.com/in/ezaldeen-sahb-17918b137/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezaldeen99" height="20" width="20" />
-</a>
-<a href="https://github.com/Ezaldeen99" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Ezaldeen99" height="20" width="20" />
-</a>
-</p>
-</div>
 
