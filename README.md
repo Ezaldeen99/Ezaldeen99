@@ -1,11 +1,6 @@
 ## Hi there, I'm <a href="https://ezaldden99.medium.com/create-a-flutter-ios-build-without-mac-911c0e3553c5" target="_blank">Ezaldeen</a>!
 <div style="background: green ">
-<!-- top left -->
-<a href="#" click="alert()">
-    <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="45" height="45"/> 
-</a>
 
-<br />
 
 ### 📕 Latest Blog Post
 
@@ -14,10 +9,8 @@
 - [Create a Flutter IOS build without Mac!](https://ezaldden99.medium.com/create-a-flutter-ios-build-without-mac-911c0e3553c5)
 - [Implement a search and filter in flutter!](https://levelup.gitconnected.com/implement-a-search-and-filter-in-flutter-56d046e12c05)
 <!-- BLOG-POST-LIST:END -->
-
 <br/>
 
-    
 ### ✔️ Libraries
 
 <!-- LIbraries-POST-LIST:START -->
