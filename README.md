@@ -1,22 +1,5 @@
 ## Hi there, I'm <a href="https://ezaldden99.medium.com/create-a-flutter-ios-build-without-mac-911c0e3553c5" target="_blank">Ezaldeen</a>!
 
-<!-- websites and link -->
-<p align="center">
-
-<a href="https://ezaldden99.medium.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ezaldeen99" height="20" width="20" />
-</a>
-<a href="https://www.linkedin.com/in/ezaldeen-sahb-17918b137/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezaldeen99" height="20" width="20" />
-</a>
-<a href="https://github.com/Ezaldeen99" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Ezaldeen99" height="20" width="20" />
-</a>
-</p>
-</div>
-
-<br />
-<br />
 <br />
 
 ### 📕 Latest Blog Post
@@ -60,5 +43,17 @@
 
 
 
+<!-- websites and link -->
+<p align="center">
 
-
+<a href="https://ezaldden99.medium.com/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ezaldeen99" height="20" width="20" />
+</a>
+<a href="https://www.linkedin.com/in/ezaldeen-sahb-17918b137/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezaldeen99" height="20" width="20" />
+</a>
+<a href="https://github.com/Ezaldeen99" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Ezaldeen99" height="20" width="20" />
+</a>
+</p>
+</div>
