@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://ezaldden99.medium.com/create-a-flutter-ios-build-without-mac-911c0e3553c5" target="_blank">Ezaldeen</a>!
+## Hi there, I'm <a href="https://ezaldden99.medium.com" target="_blank">Ezaldeen</a>!
 <div style="background: green ">
 
 
