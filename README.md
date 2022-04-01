@@ -33,7 +33,6 @@
 <!-- programming langs i work-->
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25px" height="25px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="25px" height="25px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25px" height="25px"/>
