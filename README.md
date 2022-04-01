@@ -38,7 +38,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="25px" height="25px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25px" height="25px"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="25px" height="25px"/>
 </p>
 
 
